@@ -3,7 +3,7 @@ import React from 'react'
 const Delete = () => {
     return (
         <div>
-            dslkfslfsfsd
+            dslkfslfsfsdgit
         </div>
     )
 }
